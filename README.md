@@ -1,1 +1,2 @@
 # Aircraft_Delay_Prediction (Machine Learning)
+The duration of the delay is calculated effectively in this project using machine learning models and only used supervised learning techniques to gain advantage on the training data as the project has to be deployed in real time. This application can be very useful to the airline industry to improve their business and establish a healthy customer relationship.
